@@ -1,1 +1,9 @@
-{   "rsi_length": 7,   "rsi_oversold": 30,   "rsi_overbought": 65,   "vol_threshold": 4.0,   "risk_per_trade": 0.03,   "take_profit": 0.10,   "stop_loss": 0.03 }
+{
+    "rsi_length": 7,
+    "rsi_oversold": 30,
+    "rsi_overbought": 65,
+    "vol_threshold": 4.0,
+    "risk_per_trade": 0.03,
+    "take_profit": 0.10,
+    "stop_loss": 0.03
+}
